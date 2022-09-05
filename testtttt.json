@@ -1,0 +1,13 @@
+{
+  "cookie": {
+    "originalMaxAge": null,
+    "expires": null,
+    "secure": false,
+    "httpOnly": true,
+    "path": "/"
+  },
+  "views": 4,
+  "passport": {
+    "user": "6273d675aeb040f5629f43e9"
+  }
+}
